@@ -1,16 +1,14 @@
-<div align="center">
- 
+<div>
 
-  
+<h3 align="center">Full Stack Ride Booking Application</h3>
 
-<h3 align="center">Full Stack Ride Booking Applicatioin</h3>
-
-   
+<p>This project is developed for a group hackathon workshop by team members <a href="https://github.com/MEHULSIRVI">Mehul Sirvi</a> and <a href="https://github.com/prvn2002">Praveen Kumar</a>.</p>
 
 Built with React Native for handling the user interface, Google Maps for rendering maps with directions, stripe for
 handling payments, serverless Postgres for managing databases, and styled with TailwindCSS, Ryde is a perfect
 mobile app. The primary goal of this project is to implement various features of full-stack
 mobile application development.
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React Native
@@ -100,4 +98,3 @@ npx expo start
 ```
 
 Download the [Expo Go](https://expo.dev/go) app and Scan the QR code on your respective device to view the project.
-
