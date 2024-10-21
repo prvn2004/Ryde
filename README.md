@@ -2,7 +2,7 @@
 
 <h3 align="center">Full Stack Ride Booking Application</h3>
 
-<p>This project is developed for a group hackathon workshop by team members <a href="https://github.com/MEHULSIRVI">Mehul Sirvi</a> and <a href="https://github.com/prvn2002">Praveen Kumar</a>.</p>
+<p>This project is developed for a group hackathon workshop by team members <a href="https://github.com/MEHULSIRVI">Mehul Sirvi</a> and <a href="https://github.com/prvn2004">Praveen Kumar</a>.</p>
 
 Built with React Native for handling the user interface, Google Maps for rendering maps with directions, stripe for
 handling payments, serverless Postgres for managing databases, and styled with TailwindCSS, Ryde is a perfect
